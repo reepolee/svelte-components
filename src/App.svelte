@@ -1,8 +1,7 @@
 <script>
-  import Hello from './HelloComponent/index.svelte'
-  import ByeBye from './ByeByeComponent/index.svelte'
-  export let name
+  import GithubIcon from './GithubIcon.svelte'
+  import TwitterIcon from './TwitterIcon.svelte'
 </script>
 
-<Hello {name} />
-<ByeBye {name} />
+<GithubIcon />
+<TwitterIcon />

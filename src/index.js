@@ -5,7 +5,7 @@
  * - https://github.com/rollup/rollup-plugin-svelte#pkgsvelte
  * @see {@link ../package.json}
  */
-import ByeBye from './ByeByeComponent/index.svelte'
-import Hello from './HelloComponent/index.svelte'
+import GithubIcon from './GithubIcon.svelte'
+import TwitterIcon from './TwitterIcon.svelte'
 
-export { ByeBye, Hello }
+export { GithubIcon, TwitterIcon }
